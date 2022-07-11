@@ -32,7 +32,7 @@ produces the result:
 ```
 {
 "id": 1,
-"content": "Hello, john!"
+"content": "Hello, test_name!"
 }
 ```
 
